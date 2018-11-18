@@ -19,7 +19,7 @@ until your memory fails you.
 
 ## Versions
 
-Currently in version 1.0 - Gui withno working functionality and a successfully linked leaderboard database.
+Currently in version 1.0 - GUI with no working functionality and a successfully linked leaderboard database.
 ## Authors
 
 Jordin Medina
