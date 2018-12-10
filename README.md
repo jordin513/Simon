@@ -31,5 +31,5 @@ Jordin Medina
 <br>
 *<img src="Database Diagram.png">
 
-*!<img src="Final Gif.gif">
+*<img src="Final Gif.gif">
 
