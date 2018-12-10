@@ -23,7 +23,7 @@ Currently in version 1.0 - GUI with no working functionality and a successfully 
 ## Authors
 
 Jordin Medina
-<img src="Database Diagram.png">
+*<img src="Database Diagram.png">
 
-![gif](Final Gif.gif)
+*!<img src="Final Gif.gif">
 
