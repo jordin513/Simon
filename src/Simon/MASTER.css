@@ -1,0 +1,115 @@
+/* MASTER css file*/
+
+/* Universal Styling (applies to all elements of a given type across all screens, unless specified by a #tag call */
+
+.tab {
+    -fx-pref-width: 191;
+}
+
+.tab-header-background {
+    -fx-background-color: transparent;
+}
+
+/* Applied to all standalone panes inside other controls. Can be changed later */
+.pane {
+    -fx-background-radius: 5.0;
+    -fx-padding: 8;
+    -fx-background-color: #f2f7f7;
+    -fx-border-color: #31353a;
+    -fx-border-radius: 5.0;
+}
+
+/* Style used for all text fields */
+.textField {
+    -fx-background-radius: 30;
+}
+
+/* Style applied for all buttons in the */
+.button {
+    -fx-background-color: #000000;
+    -fx-background-radius: 30;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 13;
+}
+
+/* style applied when mouse hovers over button */
+.button:hover {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #000000;
+}
+
+/* Style applied for all labels */
+.label {
+    -fx-text-fill: #000000;
+}
+
+/* Style applied for error messages */
+.labelError {
+    -fx-text-fill: #ee2b1b;
+    -fx-font-size: 12px;
+}
+
+/* Style applied for backgrounds */
+.background {
+    -fx-background-color: #3d3d3d;
+}
+
+#labelTitle {
+    -fx-font-family: Bodoni Ornaments;
+    -fx-font-size: 25px;
+}
+
+#labelHook {
+    -fx-font-size: 16px;
+}
+
+#labelHeader {
+    -fx-font-size: 18px;
+}
+
+#labelTextField {
+    -fx-font-size: 14px;
+}
+
+#description {
+    -fx-font-size: 13px;
+    -fx-text-alignment: center;
+}
+
+#workoutLabel {
+    -fx-background-color: #938a8e;
+}
+
+/* FXML files are referenced in alphabetical order */
+
+/***************************************************************
+/* CreateAccount.FXML
+****************************************************************/
+
+/***************************************************************
+/* Login.FXML
+****************************************************************/
+
+/***************************************************************
+/* MainMenu.FXML
+****************************************************************/
+
+/***************************************************************
+/* NutritionStats.fxml
+****************************************************************/
+
+/***************************************************************
+/* NutritionTracker.fxml
+****************************************************************/
+
+/***************************************************************
+/* Profile.fxml
+****************************************************************/
+
+/***************************************************************
+/* TrainingStyle.fxml
+****************************************************************/
+
+/***************************************************************
+/* WorkoutSelect.fxml
+****************************************************************/
