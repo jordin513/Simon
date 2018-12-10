@@ -23,3 +23,8 @@ Currently in version 1.0 - GUI with no working functionality and a successfully 
 ## Authors
 
 Jordin Medina
+
+![](Database Diagram.png)
+
+![](Final Gif.gif)
+
