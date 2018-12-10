@@ -27,8 +27,8 @@ version 1.0 - GUI with no working functionality and a successfully linked leader
 ## Authors
 
 Jordin Medina
-*
-*
+<br>
+<br>
 *<img src="Database Diagram.png">
 
 *!<img src="Final Gif.gif">
