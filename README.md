@@ -29,7 +29,7 @@ version 1.0 - GUI with no working functionality and a successfully linked leader
 Jordin Medina
 <br>
 <br>
-*<img src="Database Diagram.png">
+<img src="Database Diagram.png">
 
-*<img src="Final Gif.gif">
+<img src="Final Gif.gif">
 
