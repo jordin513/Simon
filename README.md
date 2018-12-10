@@ -24,7 +24,7 @@ Currently in version 1.0 - GUI with no working functionality and a successfully 
 
 Jordin Medina
 
-![](Database Diagram.png)
+!(Database Diagram.png)
 
-![](Final Gif.gif)
+!(Final Gif.gif)
 
