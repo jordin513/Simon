@@ -23,8 +23,7 @@ Currently in version 1.0 - GUI with no working functionality and a successfully 
 ## Authors
 
 Jordin Medina
-
-![pic](Database Diagram.png)
+<img src="Database Diagram.png">
 
 ![gif](Final Gif.gif)
 
